@@ -1,6 +1,6 @@
 
 
-const { cmd } = require("../commands");
+const { cmd } = require("../lib/commandHandler");
 
 // Safety Configuration
 const SAFETY = {
